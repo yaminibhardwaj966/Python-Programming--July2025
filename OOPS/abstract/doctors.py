@@ -9,7 +9,7 @@ class Doctor(ABC):
     @abstractmethod
     def provide_treatment(self):
         pass
-
+ 
 class Cardiologist(Doctor):
     
     def specialization(self):
@@ -29,4 +29,4 @@ class Neurologist(Doctor):
 ob=Neurologist()
 ob.specialization()
 ob.treatment()
-
+ 

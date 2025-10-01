@@ -37,5 +37,6 @@ class Student:
 
 ob=Student()
 ob.Menu()
+ 
 
            

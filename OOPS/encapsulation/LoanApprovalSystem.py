@@ -50,6 +50,7 @@ class LoanApplication:
                     
 ob=LoanApplication()
 ob.LoanApproved()
+ 
 
 
             
